@@ -1,0 +1,54 @@
+[33mcommit 6e58734d6c42546f43f6b68e6bc8b8a733789b0d[m[33m ([m[1;36mHEAD -> [m[1;32mbugfix[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: dfb8d2e e35af3b
+Author: shishant <shishant1126@gmail.com>
+Date:   Fri Aug 13 01:43:23 2021 +0530
+
+    merged issue1
+
+[33mcommit dfb8d2ed6759692a6502b38eb0e1f95d3d7c8f1c[m
+Author: shishant <shishant1126@gmail.com>
+Date:   Fri Aug 13 01:40:04 2021 +0530
+
+    This is c6
+
+[33mcommit e35af3b7fb34b614fa8cbb2615abbe368fda4b84[m[33m ([m[1;32missue1[m[33m)[m
+Author: shishant <shishant1126@gmail.com>
+Date:   Fri Aug 13 01:38:49 2021 +0530
+
+    This is c7
+
+[33mcommit bcef2e71d57e3e3ce2a8a1ce79751face688da4f[m
+Author: shishant <shishant1126@gmail.com>
+Date:   Fri Aug 13 01:38:04 2021 +0530
+
+    This is c5
+
+[33mcommit a3c3be59e010a8389dc7c3723b9b5f279ebf4cb1[m
+Author: shishant <shishant1126@gmail.com>
+Date:   Fri Aug 13 01:36:22 2021 +0530
+
+    This is c4
+
+[33mcommit e92f2611e89318e0f9bcfcd8d6c15501b81c9679[m
+Author: shishant <shishant1126@gmail.com>
+Date:   Fri Aug 13 01:34:08 2021 +0530
+
+    Added index.html title 2
+
+[33mcommit 3ce2d0ddc02ff1c93f3157bac43f82f85eef37df[m
+Author: shishant <shishant1126@gmail.com>
+Date:   Fri Aug 13 01:33:25 2021 +0530
+
+    Added index.html title 1
+
+[33mcommit e880145a81e8e69d24d0f3ae7b65c2bcb06f6d3c[m
+Author: shishant <shishant1126@gmail.com>
+Date:   Fri Aug 13 01:32:16 2021 +0530
+
+    Added index.html
+
+[33mcommit 25e0021d17eb4af8fad5b6a96137bdc88b27e0a9[m
+Author: shishant <shishant1126@gmail.com>
+Date:   Fri Aug 13 01:29:37 2021 +0530
+
+    Initial commit
